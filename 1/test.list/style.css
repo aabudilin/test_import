@@ -1,0 +1,13 @@
+.test-list {
+	border-collapse:collapse;
+}
+
+.test-list th {
+	background:#dedede;
+}
+
+.test-list th, .test-list td {
+	border:solid 1px #dedede;
+	padding:5px 10px;
+	font-size:16px;
+}
